@@ -1,7 +1,8 @@
-# 📚 RAG Demo — Supabase • Nomic • Cohere • Groq LLaMA-3 • Streamlit  
+# 📚 RAG Demo — Supabase • Nomic • Cohere • Groq LLaMA-3 • Streamlit
 
-## 🚀 Demo  
-Check out the live demo here: [Demo Link]([https://your-demo-url.com](https://huggingface.co/spaces/pragy19/AskDocs_AI))
+## 🚀 Demo
+Check out the live demo here: [AskDocs AI](https://huggingface.co/spaces/pragy19/AskDocs_AI)
+
 
 
 A small **Retrieval-Augmented Generation (RAG)** application.  
