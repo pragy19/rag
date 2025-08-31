@@ -1,0 +1,6 @@
+streamlit==1.38.0
+supabase==2.6.0
+nomic==3.0.28
+langchain==0.2.12
+cohere==5.11.2
+groq==0.12.0
