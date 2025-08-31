@@ -1,5 +1,6 @@
 # 📚 RAG Demo — Supabase • Nomic • Cohere • Groq LLaMA-3 • Streamlit
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green)]([https://your-demo-url.com](https://huggingface.co/spaces/pragy19/AskDocs_AI))
+## 🚀 Demo
+Check out the live demo here: [Demo Link]([https://your-demo-url.com](https://huggingface.co/spaces/pragy19/AskDocs_AI))
 
 A small **Retrieval-Augmented Generation (RAG)** application.  
 Users can upload or paste text, which is chunked, embedded, stored in a **Supabase (pgvector)** database, retrieved and reranked, and then answered by **Groq LLaMA-3** with **inline citations**.
