@@ -1,3 +1,4 @@
+
 import os
 import re
 import json
@@ -191,7 +192,7 @@ def extract_cited_indices(answer: str) -> List[int]:
 # Streamlit UI
 # ===============================
 st.set_page_config(page_title="RAG (Supabase + Nomic + Cohere + Groq)", layout="wide")
-st.title("📚 RAG Demo — Supabase • Nomic • Cohere Rerank • LLaMA-3 (Groq)")
+st.title("Chat with your Documents")
 
 with st.sidebar:
     st.header("Inputs")
